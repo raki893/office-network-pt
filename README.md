@@ -22,8 +22,8 @@ This project simulates a small office network using Cisco Packet Tracer. It incl
 ## 📁 Files
 
 - `office-v-1.pkt` – Cisco Packet Tracer project file
-- `docs/network-topology.png` – Network layout snapshot
-- `docs/config-summary.txt` – Notes on IPs, routing, and DHCP setup
+- `network-topology.png` – Network layout snapshot
+- `config-summary.txt` – Notes on IPs, routing, and DHCP setup
 
 ## 🖼️ Preview
 
