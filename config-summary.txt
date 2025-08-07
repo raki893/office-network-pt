@@ -1,0 +1,13 @@
+Router 1941:
+- Interfaces configured with static IPs
+- Static route for internal LAN segments
+
+DHCP Server:
+- Pool: 192.168.1.100–192.168.1.200
+- Default gateway: 192.168.1.1
+- DNS: 8.8.8.8
+
+Wireless Routers:
+- SSID: OfficeWiFi1 / OfficeWiFi2
+- Security: WPA2
+- DHCP Disabled (forwarded to main DHCP server)
